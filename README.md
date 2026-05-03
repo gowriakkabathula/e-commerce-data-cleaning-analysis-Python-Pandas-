@@ -26,6 +26,21 @@ Transactional dataset containing:
 # Feature Engineering 
  Created TotalPrice = Quantity * UnitPrice
  Extracted Year and Month
+ 
+ # Visualizations
+ ## Distribution by Sales
+ ![Distribution by Sales](visualizations/distribution_by_sales.png)
+ ## Monthly Orders Count
+ ![Monthly Orders Count](visualizations/monthly_orders_count.png)
+ ## Monthly Trends
+ ![Monthly Trends](visualizations/monthly_trends.png)
+ ## Top 10 Customers
+ ![Top Customers](visualizations/top_customers.png)
+ ## Top 10 Products
+ ![Top 10 Products](visualizations/top_10_products.png)
+ ## Top Countries
+ ![Top Countries](visualizations/top_countries.png)
+ 
  # Key Insights 
  1. Strong seasonal sales pattern
  2. Revenue driven by few customers
