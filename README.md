@@ -33,7 +33,7 @@ Transactional dataset containing:
  ## Monthly Orders Count
  ![Monthly Orders Count](visualizations/monthly_orders_count.png)
  ## Monthly Trends
- ![Monthly Trends](visualizations/monthly_trends.png)
+ ![Monthly Trends](visualizations/montly_trends.png)
  ## Top 10 Customers
  ![Top Customers](visualizations/top_customers.png)
  ## Top 10 Products
